@@ -10,4 +10,4 @@ There are several reasons why we have selected this project as follows:
 • For returning home from the office or University, you cannot turn on your air cooler at home, but if you use a smart home system, you can turn on/off the air conditioner on the road or from the office.
 • Maybe if you are in the office now your room door will be closed when a guest comes to your room, but if you are using the smart home system then you can open the room door sitting in the office and you can monitor it through a cc camera.
 
-Through this project, we will be able to control our IoT devices through different cell towers and here we have completed server-one routing, IoT device setup, etc.
+Through this project, we will be able to control our IoT devices through different cell towers and here we have completed Server-WAN routing, IoT device setup, etc.
